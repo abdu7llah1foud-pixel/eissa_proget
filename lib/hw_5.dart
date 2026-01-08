@@ -47,7 +47,7 @@ class HomeScreen extends StatelessWidget {
                   ),
                   SizedBox(height: 10),
                   Text(
-                    'osamazide99@gmail.com',
+                    'AbdullahAlkamel50.com',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 18,
